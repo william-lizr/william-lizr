@@ -8,19 +8,12 @@
 - 💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/
 - 📬 My Email: williamlizr@gmail.com
 
-### Past Projects in Python:
-- 🔭 Exploratory Data Analysis (EDA) 
-- 📉 Prediction: Regression
-- 📂 Prediction: Classification
-- 💡 Cluster Analysis: Unclassified Data
-- 💭 Deep Learning
-    -  Computer Vision
-    -  Computer Audition
- 
-- 🗣 Natural Language Processing 
-
 ### R
 - https://github.com/william-lizr/R-boilerplates
+- Analysis of Event-related potentials of an EEG dataset (multiple ANOVA) (proprietary - Lancaster University)
+- Smooth centile lines, normalized scores of retinal thickness for a PhD. thesis to be published (proprietary - Charles University, CZ)
+- Exploratory data analysis of applicant data from 2022/2023 cohort of medical school applicants (proprietary - Charles University, CZ)
 
-### HTML, CSS, JAVASCRIPT *(Creative Coding)*
+### HTML, CSS, JAVASCRIPT
+- websites
 - https://github.com/william-lizr/creative-coding
