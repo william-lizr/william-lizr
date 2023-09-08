@@ -1,7 +1,7 @@
 ## Hi there, I'm William 👋
 
-- 🌱 I’m currently learning Django
-- 💼 I’m looking to collaborate on Python web scraping projects using Beautiful Soup
+- 🌱 I’m currently learning data mining in Python 
+- 💼 I’m looking to collaborate on web-based applications of R and Python using libraries such as htmlwidgets, plotly
 
 - Ask me about Neuroconstructivism and Deep Learning
   
