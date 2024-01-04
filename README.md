@@ -1,6 +1,6 @@
 ## Hi there, I'm William 👋
 
-- 🌱 I’m currently learning data mining in Python 
+- 🌱 I’m currently working in R on timeseries analysis and event based analysis
 - 💼 I’m looking to collaborate on web-based applications of R and Python using libraries such as htmlwidgets, plotly
 
 - Ask me about Neuroconstructivism and Deep Learning
