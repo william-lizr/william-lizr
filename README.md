@@ -7,7 +7,7 @@ I'm a Psychologist with a keen interest in causal inference, statistical analysi
 
 -  🌱 I’m currently working on timeseries analysis in R
 - 💼 I’m looking to collaborate on web-based applications of R and Python using libraries such as htmlwidgets, plotly
-- 🧠 My blog about biology, psychology and neuroscience: [here](https://github.com/william-lizr/william-lizr.github.io)
+- 🧠 My blog about biology, psychology and neuroscience: [here](https://william-lizr.github.io/)
 
 Ask me about Neuroconstructivism and the Thousand Brains Theory 
 
