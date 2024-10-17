@@ -1,9 +1,12 @@
 # Hi there, I'm William 👋
 ## Currently studying: MSc. Neuroscience @ Kings College London
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg)
+
 ### Interested in:
 
-- Biological inspired neural networks
-- Reinforcement learning
+- 🧠 Biological inspired neural networks
+- 🏞 Reinforcement learning
 - Graph neural networks and digital twins
 
 - 💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/
