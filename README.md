@@ -1,12 +1,13 @@
 # Hi there, I'm William 👋
-I'm a Psychologist with a keen interest in causal inference, statistical analysis, and methodology of observation. Naturally, I love data science and especially visualizations! I love writing and coding intuitive explanations of natural phenomena exploring social behaviour, cognition, perception and the neural basis of consciousness. I have a BSc. Hons in Psychology from Lancaster University and am currently working in the private sector for a data analytics and automation company trying to impact real social change through the products it creates for local councils and housing authorities. 
+## Currently studying: MSc. Neuroscience @ Kings College London
+### Interested in:
+
+- Biological inspired neural networks
+- Reinforcement learning
+- Graph neural networks and digital twins
 
 - 💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/
 - 📬 My Email: williamlizr@gmail.com
-
-
--  🌱 I’m currently working on timeseries analysis in R
-- 💼 I’m looking to collaborate on web-based applications of R and Python using libraries such as htmlwidgets, plotly
 - 🧠 My blog about biology, psychology and neuroscience: [here](https://william-lizr.github.io/)
 
 Ask me about Neuroconstructivism and the Thousand Brains Theory 
