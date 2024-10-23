@@ -2,12 +2,11 @@
 ## Currently studying: MSc. Neuroscience @ Kings College London
 
 ### Interested in:
-- 🧠 Neuromorphic Artificial Intelligence
-- 🚀 Solving societal problems through technology
-  - Access to education
-  - Access to work experience
-  - Access to pricing information 
-- 💭 Graph neural networks and digital twins
+##### 🧠 Neuromorphic Artificial Intelligence
+##### 🚀 Solving societal problems through technology
+##### 💭 Graph neural networks and digital twins
+
+  
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg)
 
