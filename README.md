@@ -1,22 +1,37 @@
 # Hi there, I'm William 👋
 ## Currently studying: MSc. Neuroscience @ Kings College London
 
+<div >
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg', width = 20%>
+<div> 
+
 ### Interested in:
 - 🧠 Neuromorphic Artificial Intelligence
 - 🚀 Solving societal problems through technology
 - 💭 Graph neural networks and digital twins
 
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg', width = 50%>
+<ul>
+<li>  💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/ </li>
+<li>📬 My Email: williamlizr@gmail.com </li>
+<li>🧠 My blog about biology, psychology and neuroscience: [here](https://william-lizr.github.io/)</li>
+</ul>
+</div>
+</div>
 
 
+## Overview of my undergraduate thesis on sound encoding in the auditory cortex
+<div>
+<img src = 'https://github.com/william-lizr/william-lizr/blob/main/img_02.png?raw=true', width = 100%, display = 'inline'> 
+</div>
+<i> 
+General idea: Cortical columns form a convolutional structure which encodes sounds in 3 steps <br>
+'1' 'Core': pitch, <br>
+'2' 'Belt': inflection (change over short timescales), <br>
+'3' 'Parabelt': codon units - like phonemes which are then recombined in higher areas <br>
 
+x) the codons link into Wernickes area, where they are recombined to form words from proto-syllables
+</i>
 
-
-- 💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/
-- 📬 My Email: williamlizr@gmail.com
-- 🧠 My blog about biology, psychology and neuroscience: [here](https://william-lizr.github.io/)
-
-Ask me about Neuroconstructivism and the Thousand Brains Theory 
 
 ### R
 - https://github.com/william-lizr/R-boilerplates
