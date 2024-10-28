@@ -2,13 +2,14 @@
 ## Currently studying: MSc. Neuroscience @ Kings College London
 
 ### Interested in:
-##### 🧠 Neuromorphic Artificial Intelligence
-##### 🚀 Solving societal problems through technology
-##### 💭 Graph neural networks and digital twins
+- 🧠 Neuromorphic Artificial Intelligence
+- 🚀 Solving societal problems through technology
+- 💭 Graph neural networks and digital twins
 
-  
-
+  <div id = 'kcl-logo', style = '#kcl-logo{max-width: 200px}'> 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg)
+</div>
+
 
 - 💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/
 - 📬 My Email: williamlizr@gmail.com
