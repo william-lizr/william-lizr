@@ -6,9 +6,8 @@
 - 🚀 Solving societal problems through technology
 - 💭 Graph neural networks and digital twins
 
-  <div id = 'kcl-logo', style = '#kcl-logo {max-width: 200px} '> 
-  <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg', width = 50%>
-</div>
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg', width = 50%>
+
 
 
 
