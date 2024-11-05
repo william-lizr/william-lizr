@@ -20,6 +20,7 @@
 
 
 ## Overview of my undergraduate thesis on sound encoding in the auditory cortex
+[Detailed overview of the thesis](Undergraduate Thesis.md)
 <div>
 <img src = 'https://github.com/william-lizr/william-lizr/blob/main/img_02.png?raw=true', width = 100%, display = 'inline'> 
 </div>
