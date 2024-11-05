@@ -19,6 +19,7 @@ It is my contention that the auditory cortex decoded the auditory stimulus into 
 
 3rd dimension - complex spectrotemporal maps, recombining the miniscule features from the previous layer into more complex sounds.
 
+![image](https://github.com/user-attachments/assets/b2d7820e-a757-481b-96bc-d73f47244a83)
 
 This theory is beyond the scope of the undergradaute thesis which investigated the time it takes for an auditory stimulus to induce short term synaptic changes like depression or potentiation.
 
