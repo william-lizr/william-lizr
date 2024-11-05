@@ -13,11 +13,14 @@ The cortical columns present across the cerebral cortex slightly differ in prima
 Analogous to the tripartite structure of the visual cortex, and the processing taking place therein as described by Marr (1969), I posit that the auditory cortex takes a similar form in its processing of intial afferent auditory information.
 
 It is my contention that the auditory cortex decoded the auditory stimulus into 3 dimensions. 
-1st dimension - a tonotopic map, which is present throughout the ascending auditory pathway forms the basis of the sounds. This is analogous to the initial retinotopic map of the visual cortex.
+#### 1st dimension
+A tonotopic map, which is present throughout the ascending auditory pathway forms the basis of the sounds. This is analogous to the initial retinotopic map of the visual cortex.
 
-2nd dimension - spectrotemporal map, which encodes short segments of sounds with an inflection. This is analogous to the feature coding neurons discovered by Hubel and Wiesel (1964), which are sensitive to movement in a certain area of the retinotopic map. The auditory processing would presumable be sensitive to movement (inflection) on a certain part of the tonotopic map (spectrum).
+#### 2nd dimension 
+Spectrotemporal map, which encodes short segments of sounds with an inflection. This is analogous to the feature coding neurons discovered by Hubel and Wiesel (1964), which are sensitive to movement in a certain area of the retinotopic map. The auditory processing would presumable be sensitive to movement (inflection) on a certain part of the tonotopic map (spectrum).
 
-3rd dimension - complex spectrotemporal maps, recombining the miniscule features from the previous layer into more complex sounds.
+#### 3rd dimension 
+Complex spectrotemporal maps, recombining the miniscule features from the previous layer into more complex sounds.
 
 ![image](https://github.com/user-attachments/assets/b2d7820e-a757-481b-96bc-d73f47244a83)
 
