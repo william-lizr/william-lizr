@@ -10,6 +10,14 @@
 - 🚀 Solving societal problems through technology
 - 💭 Graph neural networks and digital twins
 
+#### Demo of my webdesign (more of an aesthetic exercise):
+ 
+<p> https://prague-alive-blog.netlify.app/ </p> 
+<p> https://pantheon-eduapp2.netlify.app/  </p> 
+<p> https://jungian-typology.netlify.app/  </p> 
+
+<br>
+
 <ul>
 <li>  💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/ </li>
 <li>📬 My Email: williamlizr@gmail.com </li>
