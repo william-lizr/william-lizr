@@ -18,6 +18,18 @@
 
 <br>
 
+#### Examples of work on scientific diagrams:
+
+Purkinkje cell diagram:
+<p> https://github.com/william-lizr/scientific-diagrams/blob/main/Purkinje%20cells.pdf </p> 
+
+Theta rhythm feature binding diagram:
+<p> https://github.com/william-lizr/scientific-diagrams/blob/main/Theta%20Rhythm.png </p> 
+
+Low resolution cerebellum anatomy:
+<p> https://github.com/william-lizr/scientific-diagrams/blob/main/Cerebellum%20anatomy.pdf </p>
+
+
 <ul>
 <li>  💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/ </li>
 <li>📬 My Email: williamlizr@gmail.com </li>
