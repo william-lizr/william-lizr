@@ -3,32 +3,7 @@
 
 <div >
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/14/King%27s_College_London_logo.svg', width = 20%>
-<div> 
-
-### Interested in:
-- 🧠 Neuromorphic Artificial Intelligence
-- 🚀 Solving societal problems through technology
-- 💭 Graph neural networks and digital twins
-
-#### Demo of my webdesign (more of an aesthetic exercise):
- 
-<p> https://prague-alive-blog.netlify.app/ </p> 
-<p> https://pantheon-eduapp2.netlify.app/  </p> 
-<p> https://jungian-typology.netlify.app/  </p> 
-
-<br>
-
-#### Examples of work on scientific diagrams:
-
-Purkinkje cell diagram:
-<p> https://github.com/william-lizr/scientific-diagrams/blob/main/Purkinje%20cells.pdf </p> 
-
-Theta rhythm feature binding diagram:
-<p> https://github.com/william-lizr/scientific-diagrams/blob/main/Theta%20Rhythm.png </p> 
-
-Low resolution cerebellum anatomy:
-<p> https://github.com/william-lizr/scientific-diagrams/blob/main/Cerebellum%20anatomy.pdf </p>
-
+<div> </br>
 
 <ul>
 <li>  💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/ </li>
