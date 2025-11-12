@@ -20,6 +20,8 @@
 - Transformers/DL in Python
 
 ## Overview of Masters Thesis on Transposable elements in ALS
+for higher resolution open PDF: https://github.com/william-lizr/william-lizr/blob/main/Lizr_Poster2025.pdf  
+
 <div>
 <img src = 'https://github.com/william-lizr/william-lizr/blob/main/poster2025.png', width = 100%, display = 'inline'> 
 </div>
