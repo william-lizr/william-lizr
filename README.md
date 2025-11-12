@@ -20,7 +20,9 @@
 - Transformers/DL in Python
 
 ## Overview of Masters Thesis on Transposable elements in ALS
-<div><img src = 'github.com/william-lizr/william-lizr/blob/main/Lizr_Poster2025.pdf?raw=true', width = 100%, display = 'inline'> </div>
+<div>
+<img src = 'github.com/william-lizr/william-lizr/blob/main/poster2025.png?raw=true', width = 100%, display = 'inline'> 
+</div>
 
 ## Overview of my undergraduate thesis on sound encoding in the auditory cortex
 [Detailed overview of the thesis](Undergraduate_Thesis.md)
