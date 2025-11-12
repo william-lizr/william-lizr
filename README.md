@@ -19,6 +19,23 @@
 - Typescript
 - Transformers/DL in Python
 
+## Overview of Masters Thesis on Transposable elements in ALS
+
+
+## Overview of my undergraduate thesis on sound encoding in the auditory cortex
+[Detailed overview of the thesis](Undergraduate_Thesis.md)
+<div>
+<img src = 'https://github.com/william-lizr/william-lizr/blob/main/img_02.png?raw=true', width = 100%, display = 'inline'> 
+</div>
+<i> 
+General idea: Cortical columns form a convolutional structure which encodes sounds in 3 steps <br>
+'1' 'Core': pitch, <br>
+'2' 'Belt': inflection (change over short timescales), <br>
+'3' 'Parabelt': codon units - like phonemes which are then recombined in higher areas <br>
+
+x) the codons link into Wernickes area, where they are recombined to form words from proto-syllables
+</i>
+
 ### R
 - https://github.com/william-lizr/R-boilerplates
 
