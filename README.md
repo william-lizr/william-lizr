@@ -8,7 +8,6 @@
 <ul>
 <li>  💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/ </li>
 <li>📬 My Email: williamlizr@gmail.com </li>
-<li>🧠 My blog about biology, psychology and neuroscience: [here](https://william-lizr.github.io/)</li>
 </ul>
 </div>
 </div>
