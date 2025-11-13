@@ -17,6 +17,8 @@
 - CUDA
 - Typescript
 - Transformers/DL in Python
+- JAX
+- JEPA
 
 ## Overview of Masters Thesis on Transposable elements in ALS
 for higher resolution open PDF: https://github.com/william-lizr/william-lizr/blob/main/Lizr_Poster2025.pdf  
