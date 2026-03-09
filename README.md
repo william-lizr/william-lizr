@@ -24,9 +24,18 @@
 
 
 Recent work:  
+
+Reimplementing TVB-style neural mass models in Python: https://github.com/william-lizr/implement_nmm  
+Replicating Montbrio, et al. 2015  
+
+<p align="center">
+  <img src="https://github.com/william-lizr/implement_nmm/blob/master/img/comparison%202a.png?raw=true" width="45.8%">
+  <img src="https://github.com/william-lizr/implement_nmm/blob/master/img/comparison%202b.png?raw=true" width="50%">
+</p>
+
 Lorenz attractor in python with Runge-Kutta 4: https://github.com/william-lizr/lorenz_attractor_multiple_rk4  
 
-<img src="https://github.com/william-lizr/lorenz_attractor_multiple_rk4/blob/main/img_1.png" height="500">  
+<img src="https://github.com/william-lizr/lorenz_attractor_multiple_rk4/blob/main/img_1.png" width="100%">  
 
 ## Overview of Masters Thesis on Transposable Elements in ALS
 
