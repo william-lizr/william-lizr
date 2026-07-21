@@ -1,8 +1,6 @@
 # Hi there, I'm William 👋
-
-## Currently working at the Brain Dynamics group at the Czech Academy of science  
-
-#### Brady project: https://brady.cs.cas.cz/about-us/about-brady_1
+#### Currently working at the Brain Dynamics group at the Czech Academy of science  
+https://brady.cs.cas.cz/about-us/about-brady_1
 
 <div align="center">
   <img src="https://www.avcr.cz/export/sites/avcr.cz/.content/galerie-souboru/loga-av-media/CAS_basic_logo_ENG_cmyk.jpg" height="120">
@@ -12,7 +10,12 @@
 
 ##### (2025: Graduated with distinction from MSc Neuroscience @ Kings College London) 
 
-💻 My LinkedIn: https://www.linkedin.com/in/william-lizr/
+<a href="https://www.linkedin.com/in/yourusername/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+https://www.linkedin.com/in/william-lizr/
+
 </div>
 </div>
 
@@ -24,10 +27,15 @@
 
 ## Recent work:  
 
-### Grapheme.online (up and running
+### Grapheme.online (Live, AWS)
 Stack: docker, terraform, fastapi, mcp + .tsx, nextjs, react, tailwind
 
 https://grapheme.online/
+
+<p align="center">
+  <img src="https://github.com/william-lizr/william-lizr/blob/9eeb5d4baab773139b3de57c0596bdb5b7cb46aa/kg-landing.png" width="50%">
+  <img src="https://github.com/william-lizr/william-lizr/blob/9eeb5d4baab773139b3de57c0596bdb5b7cb46aa/kg-graph-view.png" width="45.8%">
+</p>
 
 
 ### Reimplementing TVB-style neural mass models in Python: https://github.com/william-lizr/implement_nmm  
