@@ -16,15 +16,19 @@
 </div>
 </div>
 
-##### Currently learning
-- MLFLOW
-- CUDA
-- Typescript
-- Transformers/DL in Python
-- JAX
-- JEPA
+##### Currently interested in:  
+- mechanistic interpretability
+- brain foundation models
+- circuit discovery in dynamical systems
+- syllogisms, epistemics and self-improving ai
 
 ## Recent work:  
+
+### Grapheme.online (up and running
+Stack: docker, terraform, fastapi, mcp + .tsx, nextjs, react, tailwind
+
+https://grapheme.online/
+
 
 ### Reimplementing TVB-style neural mass models in Python: https://github.com/william-lizr/implement_nmm  
 Replicating Montbrio, et al. 2015  
